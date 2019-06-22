@@ -2,7 +2,7 @@
 
 ## A Sample Graph implementation in Java
 
-## Following operations are avilable 
+## Currently following operations are available
 
 * Graph Creation with default data
 * Adding Direct Edge
